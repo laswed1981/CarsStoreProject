@@ -1,0 +1,5 @@
+D:\A From Mac\C# for test\WebForm\Calculate\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\A From Mac\C# for test\WebForm\Calculate\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\A From Mac\C# for test\WebForm\Calculate\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\A From Mac\C# for test\WebForm\Calculate\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\A From Mac\C# for test\WebForm\Calculate\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
